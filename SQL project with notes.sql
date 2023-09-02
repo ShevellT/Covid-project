@@ -1,4 +1,4 @@
---Skills used joins, cte's, temp tables, windows functions, aggregate functions, creating views, converting data types
+--Skills used joins, aggregate functions, converting data types
 
 Select * from CovidDeaths$
 where continent is not null
